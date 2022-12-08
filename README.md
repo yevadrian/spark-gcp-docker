@@ -13,3 +13,6 @@ Apache Spark deployment using custom images and Docker Compose. Example of usage
 
 ##### Open Apache Spark via your web browser
 > localhost:8080
+
+##### Apache Spark running
+![spark](https://user-images.githubusercontent.com/110159876/206534439-825f57e6-9a6a-4448-868d-392e15db7c3f.jpg)
